@@ -29,7 +29,7 @@ Because the cost of missing a default is high, the model is evaluated primarily 
 The dataset used in this project comes from Lending Club and is available on Kaggle.
 
 File used:
-- loan.csv
+- Dataset ("loan.csv") is from kaggle ("Lending Club Loan Data"): https://www.kaggle.com/datasets/saurabh13nov/lending-club-loan-data
 
 It includes information about:
 - loan characteristics (amount, interest rate, term)
@@ -41,9 +41,10 @@ It includes information about:
 
 ## Repository Contents
 
-- README.md  
-- LoanDefaultModeling.ipynb  
-- LoanDefaultEvaluation.ipynb  
+- README.md
+- The Jupiter Notebooks can be found here: 
+  - LoanDefaultModelling.ipynb
+  - LoanDefaultEvaluation.ipynb 
 
 ---
 
