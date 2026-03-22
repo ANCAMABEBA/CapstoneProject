@@ -39,6 +39,14 @@ It includes information about:
 
 ---
 
+## Repository Contents
+
+- README.md  
+- LoanDefaultModeling.ipynb  
+- LoanDefaultEvaluation.ipynb  
+
+---
+
 ## Approach
 
 The project follows a standard machine learning workflow.
@@ -162,11 +170,5 @@ In this case, Logistic Regression outperformed tree-based models in identifying 
 
 ---
 
-## Repository Contents
 
-- README.md  
-- Modeling.ipynb  
-- Evaluation.ipynb  
-
----
 
